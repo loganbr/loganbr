@@ -28,7 +28,7 @@
 
 ![L0gan GitHub stats](https://github-readme-stats.vercel.app/api?username=loganbr&show_icons=true&theme=radical&count_private=true)
 
-[![Most Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=loganbr&theme=radical&count_private=true
+[![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganbr&theme=radical&count_private=true)
 </div>
 
 <!---
