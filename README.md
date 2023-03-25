@@ -19,11 +19,15 @@
 ### Skill and Tools ###
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 ![macOSMalwareAnalysis](https://img.shields.io/badge/MalwareAnalysis-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
-![SecurityResearches](https://img.shields.io/badge/-SecurityResearches-05122A?style=flat&logo=hackaday&color=black)&nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-
+![Shell](https://img.shields.io/badge/%23-Shell-brightgreen)&nbsp;
+![C](https://img.shields.io/badge/%23-C-brightgreen)&nbsp;
+![Assembly](https://img.shields.io/badge/%23-Assembly-brightgreen)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
+![BlueTeam](https://img.shields.io/badge/BlueTeam-05122A?style=flat&logo=hackaday&color=blue)&nbsp;
 <div id="body" align="center">
 
 ![L0gan GitHub stats](https://github-readme-stats.vercel.app/api?username=loganbr&show_icons=true&theme=radical&count_private=true)
