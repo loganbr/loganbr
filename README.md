@@ -1,5 +1,5 @@
 - 🇧🇷 Hi, I’m @L0gan \0
-- I’m interested in Red Team, Pentest, Reverse Engineering, Malware Analysi and Exploit Development.
+- I’m interested in Red Team, Pentest, Reverse Engineering, Malware Analysis and Exploit Development.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
